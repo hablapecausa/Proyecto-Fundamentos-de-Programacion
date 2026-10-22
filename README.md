@@ -4,8 +4,8 @@
 Proyecto desarrollado para la Evaluación Parcial del curso Fundamentos de Programación.
 
 ## Contenido
-- Código fuente del proyecto.
-- Archivos necesarios para revisar el trabajo.
+- Informe >v.
+- Repositorio.
 - Archivo ZIP del proyecto.
 
 ## Curso
